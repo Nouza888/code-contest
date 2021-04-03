@@ -2,3 +2,5 @@ gitコマンド集
 
 ▼ %git init
 Gitリポジトリの作成
+
+▼ %git add
